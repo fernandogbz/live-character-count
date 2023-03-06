@@ -2,7 +2,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  font-family: 'Poppins' sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
 body {
@@ -28,4 +28,10 @@ textarea {
   border-radius: 5px;
   color: #a8b2d1;
   outline: none;
+}
+
+p {
+  color: #e5e5e5;
+  text-align: right;
+  margin-top: 20px;
 }
